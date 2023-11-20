@@ -56,11 +56,11 @@ This website we use it for learning linux in the first week of training.
 ls -A -l 
 (File/ Dir starting with . character are hidden files)
 
-touch 
-rm -f -r 
-cp -r 
-mv 
-pwd
+touch  (to create new file)
+rm -f -r (rm: remove file, -f: force remove, -r: remove)
+cp -r  (Copy the content of file from one file to another file)
+mv  (move/rename the file from one location to another location)
+pwd (to check the current directory)
 cd 
 mkdir 
 cat 
