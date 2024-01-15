@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning new always
 - 🌱 I’m currently learning DevOps with AWS Cloud
 - 💞️ I’m looking to collaborate on Automations
-- 📫 How to reach me @ +91 9731309938
+- 📫 How to reach me
 
 <!---
 vijayavanisabbiti/vijayavanisabbiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
